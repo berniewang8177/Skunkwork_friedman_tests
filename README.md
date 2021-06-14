@@ -1,4 +1,4 @@
-Run generate_friedman.ipynb to have friedman data
+Run generate_friedman.ipynb to have friedman data <br>
 Then, go through the Friedman_test.ipynb 
 After done the splitting, move to MASATML (takes around 20min )
 
